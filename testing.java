@@ -23,6 +23,8 @@ public class testing {
 				System.out.println("That is a big number");
 			}
 		}
+		System.out.println();
+		System.out.print("Goodbye to you all and have a nice day! :)");
 	}
 
 
